@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop" alt="Banner Dev" width="100%" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop" alt="Banner Dev" width="85%" />
 </p>
 
 <h1 align="center">Hola 👋, Soy Emmanuel Galeano Martinez</h1>
