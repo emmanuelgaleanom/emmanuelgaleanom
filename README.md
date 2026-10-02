@@ -12,7 +12,7 @@
 
 * 🔭 **Actualmente trabajando en:** Mejorar la calidad y eficiencia de mi código, adoptando patrones de diseño y arquitecturas escalables.
 * 🌱 **Aprendiendo todos los días:** Explorando nuevos lenguajes y herramientas para expandir mi capacidad de resolver problemas complejos.
-* 👨‍💻 **Explora mi trabajo y código en** [Mi Portafolio](TU_LINK_DE_PORTAFOLIO)
+* 👨‍💻 **Explora mi trabajo y código en** [Mi Portafolio](https://emmanuelgm.vercel.app/)
 * 📬 **Puedes contactarme en:** [emmanuelgaleano43@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=emmanuelgaleano43@gmail.com)
 
 ---
@@ -20,7 +20,7 @@
 ### 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelgaleanomartinez/)
-[![Portafolio](https://img.shields.io/badge/Mi_Portafolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](TU_LINK_DE_PORTAFOLIO)
+[![Portafolio](https://img.shields.io/badge/Mi_Portafolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emmanuelgm.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=emmanuelgaleano43@gmail.com)
 
 ---
